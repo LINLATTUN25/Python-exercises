@@ -8,5 +8,4 @@ def is_positive(n):
 is_positive(-5)
 is_positive(0)
 is_positive(8)
-
-     
+is_positive(7)
